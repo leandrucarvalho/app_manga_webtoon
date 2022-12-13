@@ -54,7 +54,7 @@ class _HomePageState extends State<HomePage> {
                       arguments: DetailPageArguments(
                         title: 'Haikyuu',
                         synopsis: '',
-                        urlImage: 'aassets/images/most_popular2.png',
+                        urlImage: 'assets/images/most_popular2.png',
                       ),
                     ),
                   ),
